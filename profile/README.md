@@ -1,4 +1,4 @@
-## Diana PHP Framework
+## Introduction
 
 There are plenty of frameworks to choose out there, so which one to go for?
 Or should you rather use plain PHP for the next project, because of all of that unnecessary bloat you don't even need?
@@ -6,7 +6,7 @@ With that in mind, I have been starting to develop Diana, a modular, simple to u
 
 The target group of Diana are developers loving simplicity and easy-to-understand code. Diana will offer many pre-built packages which you are free to use, but you can always decide to extend those or even write your own packages if you wish to do so, integrating every possible existing library. This freedom of choosing and the variety of packages provides a whole new set of possibilities.
 
-## Official Documentation
+## Documentation
 
 A full documentation of the framework will be available at a future time.
 
